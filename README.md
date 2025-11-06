@@ -1,4 +1,4 @@
-# 🛒 Grocery Inventory Management System (Java + Stack)
+#Grocery Inventory Management System (Java + Stack)
 
 A Java Swing-based desktop application for managing grocery items efficiently using the Stack data structure.
 Developed as part of the Data Structures & Algorithms (DSA) course, this project demonstrates how stacks can be applied in real-world inventory systems.
